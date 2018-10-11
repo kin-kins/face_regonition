@@ -19,9 +19,9 @@ labels[40:80] = 1.0
 labels[80:] = 2.0
 
 names = {
-	0: 'Anshu',
-	1: 'Anshu Rathour',
-	2: 'Anshu',
+	0: 'face',
+	1: 'Face',
+	2: 'FACE',
 }
 
 #Define KNN functions
